@@ -1,2 +1,0 @@
-# sentyaev.github.io
-blog
