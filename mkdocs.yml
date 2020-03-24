@@ -1,8 +1,0 @@
-theme:
-    name: 'mkdocs'
-site_name: Vadim
-nav:
-    - Posts:
-      - Install Python in Ubuntu: install-python-in-ubuntu.md
-      - Create Python venv: create-python-venv.md
-    - About: about.md
