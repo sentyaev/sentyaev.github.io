@@ -1,9 +1,3 @@
----
-layout: post
-title:  "Configure Python virtual environment"
-date:   2017-11-25T11:26:30+01:00
-categories: python
----
 
 ### Create Virtual Environment
 Assume you'd like to create venv in `~/dev/env/py3`

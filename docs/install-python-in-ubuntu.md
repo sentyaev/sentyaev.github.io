@@ -1,10 +1,3 @@
----
-layout: post
-title:  "Install Python from source in Ubuntu"
-date:   2017-05-30T11:26:30+01:00
-categories: python
----
-
 ### Install Python 3.6
 
 To install python in ubunty first of all you need to install prerequisites.
